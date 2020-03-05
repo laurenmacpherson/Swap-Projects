@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Text
+comment1.params=
+comment1.target=Text()
+comment1.text=\n\ Constructor\ for\ Text\ object\n
+comment2.params=
+comment2.target=void\ removeAdjacentDuplicates()
+comment2.text=\n\ Removes\ only\ word\ duplicates\ that\ are\ directly\ next\ to\ each\ other\n
+comment3.params=
+comment3.target=void\ removeAllDuplicates()
+comment3.text=\n\ Remove\ all\ duplicated\ words\ in\ the\ string\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getWords()
+comment4.text=\n\ \ \ \ \ \ Gets\ the\ words\ from\ this\ text.\n\ \ \ \ \ \ @return\ an\ array\ list\ containing\ the\ words\n
+comment5.params=
+comment5.target=void\ pick()
+comment5.text=\n\ \ \ \ \ \ Lets\ the\ user\ pick\ a\ file\ for\ loading\n
+comment6.params=source
+comment6.target=boolean\ load(java.lang.String)
+comment6.text=\n\ \ \ \ \ \ Loads\ a\ file.\n\ \ \ \ \ \ @param\ source\ a\ URL\ or\ file\ name\n
+comment7.params=
+comment7.target=void\ explore()
+comment7.text=\n\ \ \ \ \ \ Displays\ the\ words\ in\ a\ text\ area\n
+numComments=8
